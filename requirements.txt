@@ -1,0 +1,5 @@
+scikit-learn
+pandas
+tabulate
+flake8
+kaggle
